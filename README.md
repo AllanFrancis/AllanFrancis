@@ -147,14 +147,13 @@ No dia a dia, desenvolvimento assistido por agentes dentro de um fluxo de **espe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AllanFrancis&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanFrancis&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AllanFrancis&hide_border=true&theme=tokyonight" height="165" />
+![Visitas](https://komarev.com/ghpvc/?username=AllanFrancis&color=38BDF8&style=for-the-badge&label=VISITAS+NO+PERFIL)
+[![Followers](https://img.shields.io/github/followers/AllanFrancis?style=for-the-badge&logo=github&color=181717&labelColor=181717&label=SEGUIDORES)](https://github.com/AllanFrancis?tab=followers)
+![Anos de código](https://img.shields.io/badge/DESDE-2008-38BDF8?style=for-the-badge)
 
 </div>
+
+> 🔒 A maior parte do meu trabalho vive em **repositórios privados** — sistemas em produção de clientes e projetos internos da Gvinci. O gráfico de contribuições logo abaixo mostra o volume real; o que está público aqui é só uma fatia dele.
 
 ---
 
