@@ -15,7 +15,7 @@
 
 ---
 
-## 🇧🇷 Sobre mim
+## 👋 Sobre mim
 
 Trabalho com software há **18 anos**, e a trajetória não foi uma linha reta de desenvolvimento: passou por **dados**, por **produto** e por **plataforma**. Cada etapa deixou uma coisa que uso até hoje.
 
@@ -158,7 +158,7 @@ No dia a dia, desenvolvimento assistido por agentes dentro de um fluxo de **espe
 ---
 
 <details>
-<summary><b>🇺🇸 English version — click to expand</b></summary>
+<summary><b>🌐 English version — click to expand</b></summary>
 
 <br/>
 
